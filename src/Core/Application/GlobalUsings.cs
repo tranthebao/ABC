@@ -1,0 +1,17 @@
+global using Ardalis.Specification;
+global using FluentValidation;
+global using Architech.WebApi.Application.Common.Events;
+global using Architech.WebApi.Application.Common.Exceptions;
+global using Architech.WebApi.Application.Common.FileStorage;
+global using Architech.WebApi.Application.Common.Interfaces;
+global using Architech.WebApi.Application.Common.Models;
+global using Architech.WebApi.Application.Common.Persistence;
+global using Architech.WebApi.Application.Common.Specification;
+global using Architech.WebApi.Application.Common.Validation;
+global using FSH.WebApi.Domain.Catalog;
+global using FSH.WebApi.Domain.Common;
+global using FSH.WebApi.Domain.Common.Contracts;
+global using Architech.WebApi.Shared.Notifications;
+global using MediatR;
+global using Microsoft.Extensions.Localization;
+global using Microsoft.Extensions.Logging;

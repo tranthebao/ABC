@@ -1,0 +1,7 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <RootNamespace>Architech.WebApi.Shared</RootNamespace>
+        <AssemblyName>Architech.WebApi.Shared</AssemblyName>
+    </PropertyGroup>
+</Project>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Architech.WebAPI.Boilerplate</id>
+    <version>0.0.2</version>
+    <title>.NET WebAPI Baott</title>
+    <authors>tranthebaocntt31b@gmail.com</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>./icon.png</icon>
+    <projectUrl>https://github.com/tranthebao/Clean-Code-net-6.0.git</projectUrl>
+    <description>Architecture Template for .NET 6.0 WebAPI built with Multitenancy Support.</description>
+    <copyright>2022</copyright>
+    <language>Vi-VN</language>
+    <tags>architecture WebAPI solution csharp</tags>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+    <repository type="git" url="https://github.com/tranthebao/Clean-Code-net-6.0.git" />
+  </metadata>
+</package>
